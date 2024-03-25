@@ -18,7 +18,6 @@ social-network-links:
   email: "ppluijten@gmail.com"
   rss: true
   github: ppluijten
-  twitter: ppluijten
 
 share-links-active:
   twitter: true
@@ -31,3 +30,5 @@ excerpt_length: 50
 rss-description: The feed for ppluijten.dev
 
 permalink: /:year-:month-:day-:title/
+
+google_analytics: G-EDH3QRC6EY
